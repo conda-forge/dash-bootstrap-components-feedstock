@@ -205,4 +205,6 @@ Feedstock Maintainers
 =====================
 
 * [@holtgrewe](https://github.com/holtgrewe/)
+* [@pbugnion](https://github.com/pbugnion/)
+* [@tcbegley](https://github.com/tcbegley/)
 
