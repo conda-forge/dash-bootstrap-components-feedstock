@@ -19,7 +19,7 @@ requirements:
     - pip
   run:
     - python
-    - dash >=0.41.0
+    - dash >=1.0.0
 
 test:
   imports:
