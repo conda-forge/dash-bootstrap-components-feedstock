@@ -1,5 +1,5 @@
 {% set name = "dash-bootstrap-components" %}
-{% set version = "0.8.0" %}
+{% set version = "0.8.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 4868c3c99f116059e37340989a4c3026e246d0433a2bac51b5694c3a7cf51e94
+  sha256: 1804487a1a47290a3a3a74ff6fbbe54b5359096761e8fd6158dfa389f3492b6b
 
 build:
   number: 0
@@ -33,11 +33,8 @@ about:
   summary: 'Bootstrap components for Plotly Dash'
 
   description: |
-    Plotly Dash is great! However, creating the initial layout can create a lot of boilerplate.
-    dash-bootstrap-components reduces this boilerplate by providing standard layouts and
-    high-level components.
-
-    dash-bootstrap-components provides Bootstrap components. It is built on top of reactstrap.
+    dash-bootstrap-components is a library of Bootstrap components for use with Plotly Dash,
+    that makes it easier to build consistently styled Dash apps with complex, responsive layouts.
   doc_url: https://dash-bootstrap-components.opensource.faculty.ai/
   dev_url: https://github.com/facultyai/dash-bootstrap-components
 
