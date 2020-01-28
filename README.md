@@ -9,11 +9,8 @@ Feedstock license: BSD 3-Clause
 
 Summary: Bootstrap components for Plotly Dash
 
-Plotly Dash is great! However, creating the initial layout can create a lot of boilerplate.
-dash-bootstrap-components reduces this boilerplate by providing standard layouts and
-high-level components.
-
-dash-bootstrap-components provides Bootstrap components. It is built on top of reactstrap.
+dash-bootstrap-components is a library of Bootstrap components for use with Plotly Dash,
+that makes it easier to build consistently styled Dash apps with complex, responsive layouts.
 
 
 Current build status
