@@ -5,7 +5,7 @@ Home: https://dash-bootstrap-components.opensource.faculty.ai/
 
 Package license: MIT
 
-Feedstock license: BSD 3-Clause
+Feedstock license: BSD-3-Clause
 
 Summary: Bootstrap components for Plotly Dash
 
