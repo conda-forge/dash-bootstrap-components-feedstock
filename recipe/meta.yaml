@@ -18,6 +18,7 @@ requirements:
   host:
     - python
     - pip
+    - flit
   run:
     - python
     - dash >=1.9.0
