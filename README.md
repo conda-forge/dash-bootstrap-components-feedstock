@@ -5,9 +5,13 @@ Home: https://dash-bootstrap-components.opensource.faculty.ai/
 
 Package license: MIT
 
-Feedstock license: BSD-3-Clause
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/dash-bootstrap-components-feedstock/blob/master/LICENSE.txt)
 
 Summary: Bootstrap components for Plotly Dash
+
+Development: https://github.com/facultyai/dash-bootstrap-components
+
+Documentation: https://dash-bootstrap-components.opensource.faculty.ai/
 
 dash-bootstrap-components is a library of Bootstrap components for use with Plotly Dash,
 that makes it easier to build consistently styled Dash apps with complex, responsive layouts.
