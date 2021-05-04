@@ -44,6 +44,7 @@ Installing `dash-bootstrap-components` from the `conda-forge` channel can be ach
 
 ```
 conda config --add channels conda-forge
+conda config --set channel_priority strict
 ```
 
 Once the `conda-forge` channel has been enabled, `dash-bootstrap-components` can be installed with:
