@@ -16,13 +16,13 @@ build:
 
 requirements:
   host:
-    - python ==2.7.*|>=3.5
+    - python >=3.6
     - setuptools
     - pip
   run:
-    - python ==2.7.*|>=3.5
+    - python >=3.6
     - setuptools
-    - dash >=1.9.0,<2
+    - dash >=2.0.0
 
 test:
   imports:
