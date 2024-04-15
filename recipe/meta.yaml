@@ -1,13 +1,13 @@
 {% set name = "dash-bootstrap-components" %}
-{% set version = "1.5.0" %}
+{% set version = "1.6.0" %}
 
 package:
   name: {{ name|lower }}
   version: {{ version }}
 
 source:
-  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name }}-{{ version }}.tar.gz
-  sha256: 083158c07434b9965e2d6c3e8ca72dbbe47dab23e676258cef9bf0ad47d2e250
+  url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/{{ name.replace('-', '_') }}-{{ version }}.tar.gz
+  sha256: 960a1ec9397574792f49a8241024fa3cecde0f5930c971a3fc81f016cbeb1095
 
 build:
   number: 0
