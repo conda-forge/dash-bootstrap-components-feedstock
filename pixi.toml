@@ -7,7 +7,7 @@
 
 [project]
 name = "dash-bootstrap-components-feedstock"
-version = "3.51.0"  # conda-smithy version used to generate this file
+version = "3.51.1"  # conda-smithy version used to generate this file
 description = "Pixi configuration for conda-forge/dash-bootstrap-components-feedstock"
 authors = ["@conda-forge/dash-bootstrap-components"]
 channels = ["conda-forge"]
